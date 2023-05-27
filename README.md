@@ -7,7 +7,7 @@ Welcome to PixelForceOS - The "modified" windows operating system
 
 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗:
 
-To get the bootable PixelForce.iso file, simply follow the link in the download.md file on this page: https://github.com/PixelForce-Industries/PixelForceOS
+You can download the PixelForce Operating System as a .iso file here: https://github.com/PixelForce-Industries/PixelForceOS/blob/main/download.md
 
 ──────────────────────────────────────────
 
